@@ -1,4 +1,4 @@
-Mobile tracking android app
+# Mobile tracking android app
 
 Download: Search play store for the "lookpoint" or visit: https://play.google.com/store/apps/details?id=com.vanitarnordic.lookpoint
 
